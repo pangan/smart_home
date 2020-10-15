@@ -1,2 +1,3 @@
-# smart_home_light_3
-Smart home light system
+# smart home
+Collection of my smart home.
+Arduino UNO, ESP8266, ATTiny85
